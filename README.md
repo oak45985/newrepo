@@ -1,1 +1,1 @@
-# newrepo
+Javascript is fun because of the way it is
